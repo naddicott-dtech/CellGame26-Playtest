@@ -12,13 +12,14 @@ About 15 minutes per Chromebook.
 
 **1. Graphics status.** Open `chrome://gpu` and photograph the **Graphics Feature Status** list. If the page is blocked, skip this step.
 
-**2. Five measurements.** Open each link, keep the tab in front, and don't touch anything: the cell swims by itself. After about 35 seconds a black panel appears at the top right. **Photograph it.** If the panel starts with "The tab was hidden", reload and try again.
+**2. Six measurements.** Open each link, keep the tab in front, and don't touch anything: the cell swims by itself. After about 35 seconds a black panel appears at the top right. **Photograph it.** If the panel starts with "The tab was hidden", reload and try again.
 
 1. [Full load, tint effect](https://naddicott-dtech.github.io/CellGame26-Playtest/?scene=swarm&autoplay=1&fx=tint&measure=30)
 2. [Full load, no effect](https://naddicott-dtech.github.io/CellGame26-Playtest/?scene=swarm&autoplay=1&fx=none&measure=30)
 3. [Full load, blurred lens edge](https://naddicott-dtech.github.io/CellGame26-Playtest/?scene=swarm&autoplay=1&fx=blur&measure=30)
 4. [Full load, capped at 30 fps](https://naddicott-dtech.github.io/CellGame26-Playtest/?scene=swarm&autoplay=1&fx=tint&fps=30&measure=30)
 5. [Level 1 alone, for comparison](https://naddicott-dtech.github.io/CellGame26-Playtest/?scene=slice&autoplay=1&measure=30)
+6. [Full load, tint effect, previous build](https://naddicott-dtech.github.io/CellGame26-Playtest/before/?scene=swarm&autoplay=1&fx=tint&measure=30): the same as link 1, on the build from before a speed-up, for a before-and-after
 
 **3. Task Manager.** While link 1 is running, press **Search + Esc** to open Chrome's Task Manager. Photograph the rows for the game's tab and for **GPU Process** (CPU and Memory footprint).
 
