@@ -2,7 +2,7 @@
 
 A test build of a cell-biology game in progress. Some art and help text are still placeholders.
 
-**Build:** Level 1, classroom build of `001ac3d3` (2026-10-09): the story's real text, Skip to gameplay on parts you've already seen, and Escape for the Pause menu.
+**Build:** Level 1, classroom build of `eb42c5f9` (2026-10-09): the story's real text, Skip to gameplay on parts you've already seen, Escape for the Pause menu, and new: ATP numbers float up above the cell when you make ATP (green) or spend it (red), and the ATP meter glows green when ATP is made.
 
 ## Level 1 playtest (for testers)
 
@@ -17,6 +17,7 @@ About 10 to 15 minutes. Use a Chromebook if you can, or your own laptop, with th
    - **The demonstrations** (the animations above the story box): did you watch them while reading, or miss them?
    - **The first pseudopod:** how long did it take you to make the cell move for the first time? How many tries didn't work first?
    - **Refusals:** if a pull was refused (a red flash and a message), did you understand why, and what to do instead?
+   - **The ATP numbers** (new): did you notice the green and red numbers floating up from the cell, and the meter glowing green? Did they help you see what makes ATP and what spends it, or get in the way?
    - **Anything else:** a moment you didn't know what to do, something slow or broken, or something fun.
 4. **Known gaps (no need to report):** the Encyclopedia and How to Play text are placeholders, and there are no cutscenes yet.
 
