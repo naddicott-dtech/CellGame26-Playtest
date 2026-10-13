@@ -2,18 +2,34 @@
 
 A test build of a cell-biology game in progress. Some art and help text are still placeholders.
 
-**Build:** Level 1, classroom build of `eb42c5f9` (2026-10-09): the story's real text, Skip to gameplay on parts you've already seen, Escape for the Pause menu, and new: ATP numbers float up above the cell when you make ATP (green) or spend it (red), and the ATP meter glows green when ATP is made.
+**Build:** Levels 1 and 2, classroom build of `57175e9f` (2026-10-13). New: **Level 2: Gesundheit**, which opens once Level 1 is complete: the nucleus, collecting amino acids and nucleotides, buying ribosomes and slicers, and two waves of viruses.
 
-## Camera check (Level 2's zoom and pan, for the teacher)
+## Chromebook control check (Level 2, for the teacher)
 
-A **test build** of the camera bench (`build/camera-2` at `1c52b287`, 2026-10-12), on a classroom Chromebook, about 10 minutes.
+The camera bench is gone; the check is on Level 2 itself, on a classroom Chromebook, about 10 minutes (the older bench build under `camera/` can be removed).
 
-**[Open the camera bench](https://naddicott-dtech.github.io/CellGame26-Playtest/camera/?bench=camera)**: Play, then **Start Test bench: camera**.
+1. **[Play](https://naddicott-dtech.github.io/CellGame26-Playtest/)** Level 1 to "Level complete!", then **Start Level 2: Gesundheit**.
+2. After the first ribosomes are bought, the hold zooms to the nucleus by itself; then the zoom bar appears.
+3. Try each across the whole range: the **two-finger scroll** (it zooms), a **pinch**, the **zoom bar** and its **− and +** ends, **WASD or the arrows**, a **drag on empty space** (pans), and **Follow the cell**.
+4. Note: any **accidental zooming**; **near-miss presses** on the membrane that panned instead of pulling; whether each control is easy to control across the range; and anything clipped behind the story box or the panel at the classroom window size.
 
-1. Read the three lines (the second zooms to the nucleus by itself), then Continue.
-2. Try each across the whole range: the **two-finger scroll** (it zooms), a **pinch** on the trackpad, the **zoom bar** and its **− and +** ends, **WASD or the arrows**, a **drag on empty space** (pans), and **Follow the cell**.
-3. Note: any **accidental zooming**; **near-miss presses** on the membrane that panned instead of pulling; whether each control is easy to control across the range (too fast, too slow, too coarse).
-4. Zoom out past the starting view: glucose beyond the bright window may now show (decided 2026-10-12).
+## Level 2 playtest (for testers)
+
+About 10 minutes, after Level 1 (Level 2 opens when Level 1 is complete).
+
+**[Play](https://naddicott-dtech.github.io/CellGame26-Playtest/)**: choose **Start Level 2: Gesundheit**.
+
+1. **Play it normally** until "Level complete!".
+2. **Note anything that confused you**, especially:
+   - **Buying:** did you find **Buy Ribosomes** and **Buy Slicers** on the nucleus's panel? Were the costs and any "bought 3 of 5" messages clear?
+   - **The new ribosomes:** did you notice them sliding out of the nucleus through a glowing pore?
+   - **The viruses:** did you understand what the slicers do, and why the membrane lost health?
+   - **Running low:** if the game said winning was no longer possible and offered **Restart level**, did that make sense?
+   - **The story boxes and demonstrations:** too long, too short, or about right? Any line you didn't understand?
+   - **Anything else:** a moment you didn't know what to do, something slow or broken, or something fun.
+3. **Known gaps (no need to report):** placeholder Encyclopedia and How to Play text; some lines are placeholders.
+
+**Send back** your notes, labelled with the device and how long the level took you (it's on the results screen).
 
 ## Level 1 playtest (for testers)
 
