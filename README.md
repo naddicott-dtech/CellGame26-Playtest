@@ -6,7 +6,7 @@ A test build of a cell-biology game in progress. Some art and help text are stil
 
 ## Chromebook control check (Level 2, for the teacher)
 
-The camera bench is gone; the check is on Level 2 itself, on a classroom Chromebook, about 10 minutes (the older bench build under `camera/` can be removed).
+The camera bench is gone; the check is on Level 2 itself, on a classroom Chromebook, about 10 minutes.
 
 1. **[Play](https://naddicott-dtech.github.io/CellGame26-Playtest/)** Level 1 to "Level complete!", then **Start Level 2: Gesundheit**.
 2. After the first ribosomes are bought, the hold zooms to the nucleus by itself; then the zoom bar appears.
