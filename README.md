@@ -2,7 +2,7 @@
 
 A test build of a cell-biology game in progress. Some art and help text are still placeholders.
 
-**Build:** Levels 1 to 3, classroom build of `e3af5eec` (2026-10-14). New: **Level 3: Room to Grow**, which opens once Level 2 is complete: recycling slicers, fat from extra glucose, the ER and making membrane, hydrogen peroxide damage, moving and switching off the mitochondrion, DNA repair enzymes and peroxisomes, then two waves of viruses. Also new: a row of unit counts under the membrane gauge (slicers, peroxisomes and repair enzymes, with how many are still being built).
+**Build:** Levels 1 to 3, classroom build of `fc076358` (2026-10-14; Playable Level 3's closing PR: the ATP warning now waits 3.5 s, not 3, so a cell still holding glucose no longer flashes it). New: **Level 3: Room to Grow**, which opens once Level 2 is complete: recycling slicers, fat from extra glucose, the ER and making membrane, hydrogen peroxide damage, moving and switching off the mitochondrion, DNA repair enzymes and peroxisomes, then two waves of viruses. Also new: a row of unit counts under the membrane gauge (slicers, peroxisomes and repair enzymes, with how many are still being built).
 
 ## Level 3 playtest (for testers)
 
