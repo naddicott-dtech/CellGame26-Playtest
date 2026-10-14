@@ -2,7 +2,26 @@
 
 A test build of a cell-biology game in progress. Some art and help text are still placeholders.
 
-**Build:** Levels 1 and 2, classroom build of `57175e9f` (2026-10-13). New: **Level 2: Gesundheit**, which opens once Level 1 is complete: the nucleus, collecting amino acids and nucleotides, buying ribosomes and slicers, and two waves of viruses.
+**Build:** Levels 1 to 3, classroom build of `e3af5eec` (2026-10-14). New: **Level 3: Room to Grow**, which opens once Level 2 is complete: recycling slicers, fat from extra glucose, the ER and making membrane, hydrogen peroxide damage, moving and switching off the mitochondrion, DNA repair enzymes and peroxisomes, then two waves of viruses. Also new: a row of unit counts under the membrane gauge (slicers, peroxisomes and repair enzymes, with how many are still being built).
+
+## Level 3 playtest (for testers)
+
+About 12 to 15 minutes, after Levels 1 and 2 (Level 3 opens when Level 2 is complete).
+
+**[Play](https://naddicott-dtech.github.io/CellGame26-Playtest/)**: choose **Start Level 3: Room to Grow**.
+
+1. **Play it normally** until "Level complete!".
+2. **Note where you got stuck, and whether you got going again.** This level is the hardest so far. Especially:
+   - **Selecting and recycling:** did **Select all slicers** and **Recycle** make sense?
+   - **The ER:** did you find **Make Membrane** and **Take Membrane** on the ER's panel? Was the vesicle demonstration clear?
+   - **The peroxide:** did you understand what the small particles were doing to the nucleus? Were **Move** and **Switch off / Switch on** on the mitochondrion easy to use?
+   - **Repair and peroxisomes:** did you understand what the repair enzymes and the peroxisomes do?
+   - **The unit counts** under the membrane gauge: did you notice them? Did they help you see when you were running out of slicers or peroxisomes?
+   - **The viruses:** did you have enough slicers ready?
+   - **Anything else:** a moment you didn't know what to do, something slow or broken, or something fun.
+3. **Known gaps (no need to report):** placeholder Encyclopedia and How to Play text.
+
+**Send back** your notes, labelled with the device, how long the level took you (it's on the results screen), and where you got stuck.
 
 ## Chromebook control check (Level 2, for the teacher)
 
