@@ -4,6 +4,16 @@ A test build of a cell-biology game in progress. Some art and help text are stil
 
 **Build:** Levels 1 to 3, classroom build of `f1399a94` (2026-10-14; Playable Level 3 complete). New since the last build: the hint that appears after 30 seconds without progress works throughout Level 3 (it froze the game before), and an unexpected error now shows a message instead of freezing. The ATP warning waits 3.5 s, so a cell still holding glucose doesn't flash it. New: **Level 3: Room to Grow**, which opens once Level 2 is complete.
 
+## Level 4 work in progress (test build, for the teacher)
+
+The **test build** of `3eb996dc` (2026-10-14), in its own folder; the root stays the classroom build of Levels 1 to 3.
+
+**[Play the test build](https://naddicott-dtech.github.io/CellGame26-Playtest/test/?open=all)**: `?open=all` opens every level; choose **Start Level 4: Cleanup Crew**.
+
+- **What's there so far:** the Start, Damage and Golgi holds and Objectives 1 and 2: the damaged mitochondrion floating in and engulfed, the Golgi arriving and claimed by a tap.
+- **Where it stops:** after the Golgi hold there is no next Objective yet. Buying lysosomes comes with the next PR.
+- **Look for:** whether the damaged mitochondrion reads as damaged at normal zoom, and whether the Golgi's size, place and orientation read well (its curved side toward the ER, its open side toward the membrane).
+
 ## Level 3 playtest (for testers)
 
 About 12 to 15 minutes, after Levels 1 and 2 (Level 3 opens when Level 2 is complete).
