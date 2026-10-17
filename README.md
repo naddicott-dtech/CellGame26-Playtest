@@ -2,7 +2,7 @@
 
 A test build of a cell-biology game in progress (Levels 1 to 4). Some art is still placeholder. The site is private until the school login is in front of it; the teacher opens it for a session.
 
-**Build:** Levels 1 to 4, classroom build of `b2fad7f2` (2026-10-16; the dialogue polish and the glossary). New since the last build: Level 4 (Cleanup Crew) complete; the characters speak in character, with the control instructions in the Objective pane's help line and the "well, actually" details in **ⓘ Science note** buttons; the dialogue box no longer flashes when a scene opens; the Encyclopedia is real, with 52 entries revealed as the game teaches them, each with a game picture and a real-cell picture.
+**Build:** Levels 1 to 4, classroom build of `98a16dd1` (2026-10-16; the dialogue polish, the glossary, and the wording fixes from the first playtest). New since the last build: Level 4 (Cleanup Crew) complete; the characters speak in character, with the control instructions in the Objective pane's help line and the "well, actually" details in **ⓘ Science note** buttons; the dialogue box no longer flashes when a scene opens; the Encyclopedia is real, with 52 entries revealed as the game teaches them, each with a game picture and a real-cell picture.
 
 ## Student QA: the dialogue polish and the glossary (October 2026)
 
