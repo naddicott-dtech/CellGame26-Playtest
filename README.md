@@ -1,8 +1,8 @@
 # CellGame26 playtest build
 
-A test build of a cell-biology game in progress (Levels 1 to 4). Some art is still placeholder. The site is private until the school login is in front of it; the teacher opens it for a session.
+A test build of a cell-biology game in progress (Levels 1 to 5). Some art is still placeholder. The site is private until the school login is in front of it; the teacher opens it for a session.
 
-**Build:** Levels 1 to 4, classroom build of `98a16dd1` (2026-10-16; the dialogue polish, the glossary, and the wording fixes from the first playtest). New since the last build: Level 4 (Cleanup Crew) complete; the characters speak in character, with the control instructions in the Objective pane's help line and the "well, actually" details in **ⓘ Science note** buttons; the dialogue box no longer flashes when a scene opens; the Encyclopedia is real, with 52 entries revealed as the game teaches them, each with a game picture and a real-cell picture.
+**Build:** Levels 1 to 5, classroom build of `7876264c` (2026-10-17; Playable Level 5). New since the last build (`98a16dd1`): Level 5 (Lock In) complete, on its own rocket-themed dish; the Class Minimum is saved once the chloroplast is in and its story box is closed; three new demonstrations above the story box (sunlight and glucose, auto-replace at the ER, the defensin shield's chance); the Encyclopedia's last hidden terms (Chloroplast, Photosynthesis, Enveloped viruses, Defensins) are revealed as Level 5 teaches them.
 
 ## Student QA: the dialogue polish and the glossary (October 2026)
 
@@ -63,7 +63,7 @@ Then two short answers: **one thing you would change first**, and **one thing ab
 
 ### Known things, no need to report
 
-The Pseudopod entry has no "real cell" picture yet. Some Encyclopedia terms are hidden until Level 5 exists. The Cytoskeleton's real picture is large and may load slowly. Levels 5 and up are not in this build.
+The Pseudopod and Chloroplast entries have no "real cell" picture yet. The Cytoskeleton's real picture is large and may load slowly. Levels 6 and up are not in this build.
 
 ### For the teacher
 
@@ -75,7 +75,7 @@ The Pseudopod entry has no "real cell" picture yet. Some Encyclopedia terms are 
 
 Each level opens when the one before it is complete. Play on a Chromebook if you can, with the browser window as large as it goes. For every note, write the level, what was on screen (the Objective pane's words, or the scene) and, for words, the exact line. **Send back** your notes labelled with the device and how long the level took you (it's on the results screen).
 
-**Known gaps (no need to report):** the Pseudopod entry has no "real cell" picture yet; some Encyclopedia terms are hidden until Level 5 exists; the Cytoskeleton's real picture is large and may load slowly; there are no cutscenes.
+**Known gaps (no need to report):** the Pseudopod and Chloroplast entries have no "real cell" picture yet; the Cytoskeleton's real picture is large and may load slowly; there are no cutscenes. Level 5 is in this build, and its Encyclopedia terms are revealed as it teaches them.
 
 ### Level 1: Wiggle Room (10 to 15 minutes)
 
@@ -97,6 +97,12 @@ Each level opens when the one before it is complete. Play on a Chromebook if you
 
 1. **Play it normally** until "Level complete!".
 2. **Note where you got stuck**, especially: the damaged mitochondrion (did it read as damaged at normal zoom?); the Golgi (did you find it and claim it?); making lysosomes (did "Watch the process" make sense? did you know you needed about 10?); **Recycle mitochondrion** on the damaged one (did you understand why several ready lysosomes were needed, and what came back?); **Divide** on the remaining mitochondrion (was the cost and the outcome clear?); the invaders (what a lysosome did to one, why the membrane took damage) and the final attack; **Encyclopedia: …** on an organelle's panel (did it open on the right entry?).
+
+### Level 5: Lock In (about 12 to 15 minutes)
+
+1. **Play it normally** until "Level complete!".
+2. **Note where you got stuck**, especially: the chloroplast floating in (did the Objective pane's help make sense?); the sunlight demonstration (watched? did you understand why the glucose stopped in the dark?); the peroxide Objectives (did the waiting feel right?); **Divide** on the chloroplast (was the cost clear? was fatty acids the problem?); **Auto-replace** on the ER's panel, and its missed count; the fat beat (did you switch the mitochondrion off, and back on? did the tip help?); **Make defensin** on the Golgi, and the shield's percentage on the membrane gauge (did it read as a chance?); the two waves and the wrapped viruses ("Blocked!", and why some got in anyway); **Take defensin**; the results.
+3. **Write down how long the level took you** (it's on the results screen), and the device.
 
 ## Chromebook control check (Level 2, for the teacher)
 
