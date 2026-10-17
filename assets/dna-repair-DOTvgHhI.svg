@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="337.5625"
+   height="547.54138"
+   id="svg2">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <text
+     x="168.86914"
+     y="22.289063"
+     id="text2987"
+     xml:space="preserve"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="22.289063"
+       id="tspan2989">DNA Repair</tspan></text>
+  <text
+     x="168.86914"
+     y="85.277161"
+     id="text2991"
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="85.277161"
+       id="tspan2993">DNA Damage</tspan></text>
+  <text
+     x="168.86914"
+     y="154.80948"
+     id="text2995"
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="154.80948"
+       id="tspan2997">Glycosylase (MPG, Ogg1, Nth1, NEIL 1)</tspan></text>
+  <text
+     x="168.86914"
+     y="245.97784"
+     id="text2999"
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="245.97784"
+       id="tspan3001">AP Site</tspan></text>
+  <text
+     x="168.86914"
+     y="313.05606"
+     id="text3003"
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="313.05606"
+       id="tspan3005">Ape 1/ Ref-1</tspan></text>
+  <text
+     x="168.86914"
+     y="396.86218"
+     id="text3007"
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="396.86218"
+       id="tspan3009">B- pol:</tspan><tspan
+       x="168.86914"
+       y="418.46219"
+       id="tspan3011">dRPase</tspan><tspan
+       x="168.86914"
+       y="440.06219"
+       id="tspan3013">and synthesis</tspan></text>
+  <text
+     x="168.86914"
+     y="526.47784"
+     id="text3015"
+     xml:space="preserve"
+     style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="526.47784"
+       id="tspan3017">DNA Ligase</tspan></text>
+  <path
+     d="m 162.36914,95.658112 13,0 0,22.999998 11,0 -17.5,13 -17.5,-13 11,0 z"
+     id="path3023"
+     style="fill:#000000;stroke:none" />
+  <use
+     transform="translate(-3.75e-7,90)"
+     id="use3033"
+     x="0"
+     y="0"
+     width="306"
+     height="481"
+     xlink:href="#path3023" />
+  <use
+     transform="translate(-3.75e-7,160)"
+     id="use3035"
+     x="0"
+     y="0"
+     width="306"
+     height="481"
+     xlink:href="#path3023" />
+  <use
+     transform="translate(-3.75e-7,245)"
+     id="use3037"
+     x="0"
+     y="0"
+     width="306"
+     height="481"
+     xlink:href="#path3023" />
+  <use
+     transform="translate(-3.75e-7,375)"
+     id="use3039"
+     x="0"
+     y="0"
+     width="306"
+     height="481"
+     xlink:href="#path3023" />
+  <text
+     x="168.86914"
+     y="174.29836"
+     id="text3016"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="174.29836"
+       id="tspan3018">Cuts of damaged base creating AP Site</tspan></text>
+  <text
+     x="168.86914"
+     y="333.33554"
+     id="text3020"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="333.33554"
+       id="tspan3022">nicks DNA backbone at AP Site</tspan></text>
+  <text
+     x="168.86914"
+     y="545.38513"
+     id="text3024"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="545.38513"
+       id="tspan3026">seals DNA</tspan></text>
+  <text
+     x="168.86914"
+     y="459.44083"
+     id="text3032"
+     xml:space="preserve"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans Bold"><tspan
+       x="168.86914"
+       y="459.44083"
+       id="tspan3034">puts in correct base</tspan></text>
+</svg>
